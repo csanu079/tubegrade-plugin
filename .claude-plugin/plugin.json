@@ -1,0 +1,20 @@
+{
+  "name": "tubegrade",
+  "version": "0.1.4",
+  "description": "Find what's breaking out on YouTube and why: outlier videos, viral title and thumbnail formats, channel growth, similar channels, rankings, transcripts and comments, plus guided workflows for ideas, packaging and scripts.",
+  "author": {
+    "name": "TubeGrade",
+    "email": "support@tubegrade.com",
+    "url": "https://www.tubegrade.com/"
+  },
+  "homepage": "https://www.tubegrade.com/mcp/",
+  "repository": "https://github.com/csanu079/tubegrade-plugin",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "creators",
+    "research",
+    "outliers",
+    "thumbnails"
+  ]
+}

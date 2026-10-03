@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tubegrade": {
+      "type": "http",
+      "url": "https://api.tubegrade.com/mcp"
+    }
+  }
+}
